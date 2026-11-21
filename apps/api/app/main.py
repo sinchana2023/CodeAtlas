@@ -7,8 +7,8 @@ from fastapi.middleware.cors import CORSMiddleware
 
 
 app = FastAPI(
-    title="OnboardAI API",
-    description="Backend API for the OnboardAI codebase onboarding platform.",
+    title="CodeAtlas API",
+    description="Backend API for CodeAtlas — Agentic Codebase Intelligence Platform.",
     version="0.1.0",
 )
 app.add_middleware(
@@ -29,7 +29,7 @@ app.add_middleware(
 def health_check():
     return {
         "status": "healthy",
-        "service": "onboardai-api",
+        "service": "codeatlas-api",
     }
 
 

@@ -48,11 +48,11 @@ export default function Home() {
       <div className="mx-auto flex min-h-screen max-w-5xl flex-col px-6 py-8">
         <header className="flex items-center justify-between">
           <div className="text-xl font-semibold">
-            OnboardAI
+            CodeAtlas
           </div>
 
           <div className="text-sm text-slate-400">
-            AI Codebase Intelligence
+            Agentic Codebase Intelligence Platform
           </div>
         </header>
 
