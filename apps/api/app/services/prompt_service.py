@@ -2,7 +2,7 @@ class PromptService:
     """Build grounded prompts from retrieved repository context."""
 
     SYSTEM_PROMPT = """
-You are OnboardAI, an AI assistant that helps developers
+You are CodeAtlas, an AI assistant that helps developers
 understand unfamiliar software repositories.
 
 Answer the user's question using ONLY the repository context

@@ -141,7 +141,7 @@ export default function RepositoryPage({
       <div className="mx-auto max-w-6xl px-6 py-8">
         <header className="flex items-center justify-between">
           <div className="text-xl font-semibold">
-            OnboardAI
+            CodeAtlas
           </div>
 
           <Link
@@ -216,7 +216,7 @@ export default function RepositoryPage({
           <div className="mt-8 rounded-2xl border border-blue-900 bg-slate-900 p-6">
             <div className="mb-5">
               <p className="text-lg font-semibold">
-                Ask OnboardAI
+                Ask CodeAtlas
               </p>
 
               <p className="mt-2 text-sm text-slate-400">
@@ -274,7 +274,7 @@ export default function RepositoryPage({
             <div className="mt-6 space-y-6">
               <div className="rounded-2xl border border-slate-800 bg-slate-900 p-6">
                 <p className="text-sm font-medium text-slate-400">
-                  OnboardAI
+                  CodeAtlas
                 </p>
 
                 <div className="mt-3 whitespace-pre-wrap text-sm leading-7 text-slate-200">
